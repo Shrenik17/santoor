@@ -1,4 +1,6 @@
 console.log("Santoor Mom")
 console.log("dont use cinthol")
+console.log("use dettol")
+console.log(" use nirma")
 console.log("m1")
 console.log("m2")
